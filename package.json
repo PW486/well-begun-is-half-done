@@ -20,7 +20,7 @@
     "babel-plugin-import": "^1.12.1",
     "connected-react-router": "^6.5.2",
     "customize-cra": "^0.5.0",
-    "history": "^4.9.0",
+    "history": "^4.10.1",
     "immer": "^3.2.0",
     "jwt-decode": "^2.2.0",
     "less": "^3.10.3",
